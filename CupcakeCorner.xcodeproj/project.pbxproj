@@ -17,6 +17,8 @@
 		B6F7438A2716D7D600367567 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F743892716D7D500367567 /* Order.swift */; };
 		B6F7438C2716EC5300367567 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F7438B2716EC5200367567 /* AddressView.swift */; };
 		B6F7438E2716ED2600367567 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F7438D2716ED2600367567 /* CheckoutView.swift */; };
+		B6F7439227180FA500367567 /* ContentViewForChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F7439127180FA400367567 /* ContentViewForChallenge.swift */; };
+		B6F7439427180FB100367567 /* OrderForChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F7439327180FB100367567 /* OrderForChallenge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		B6F743892716D7D500367567 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		B6F7438B2716EC5200367567 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		B6F7438D2716ED2600367567 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		B6F7439127180FA400367567 /* ContentViewForChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewForChallenge.swift; sourceTree = "<group>"; };
+		B6F7439327180FB100367567 /* OrderForChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderForChallenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +108,8 @@
 				B6F743612715A5DE00367567 /* ContentView.swift */,
 				B6F743892716D7D500367567 /* Order.swift */,
 				B6F7438B2716EC5200367567 /* AddressView.swift */,
+				B6F7439127180FA400367567 /* ContentViewForChallenge.swift */,
+				B6F7439327180FB100367567 /* OrderForChallenge.swift */,
 				B6F7438D2716ED2600367567 /* CheckoutView.swift */,
 				B6F743632715A5E300367567 /* Assets.xcassets */,
 				B6F743652715A5E300367567 /* Preview Content */,
@@ -268,8 +274,10 @@
 			files = (
 				B6F7438A2716D7D600367567 /* Order.swift in Sources */,
 				B6F7438C2716EC5300367567 /* AddressView.swift in Sources */,
+				B6F7439227180FA500367567 /* ContentViewForChallenge.swift in Sources */,
 				B6F7438E2716ED2600367567 /* CheckoutView.swift in Sources */,
 				B6F743622715A5DE00367567 /* ContentView.swift in Sources */,
+				B6F7439427180FB100367567 /* OrderForChallenge.swift in Sources */,
 				B6F743602715A5DE00367567 /* CupcakeCornerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
